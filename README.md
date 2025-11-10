@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ul0gic/ul0gic/main/banner.png" alt="ul0gic banner" width="100%">
-</p>
-
 ### Security Architect • Backend Engineer • Infrastructure Specialist
 
 Building secure systems from infrastructure to application layer.
