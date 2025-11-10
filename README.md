@@ -9,7 +9,7 @@ Specializing in **Architecture Design**, **Security Tooling**, and **Full-Stack 
 
 ---
 
-### <img src="https://cdn.simpleicons.org/target/FF6B6B" width="25" height="25" /> Core Focus
+### 🎯 Core Focus
 
 - Offensive & Defensive Security Tooling
 - Backend Systems in **Rust**, **Go**, and **Python**
@@ -19,7 +19,7 @@ Specializing in **Architecture Design**, **Security Tooling**, and **Full-Stack 
 
 ---
 
-### <img src="https://cdn.simpleicons.org/constructorIO/FFD700" width="25" height="25" /> Work In Progress
+### 🚧 Work In Progress
 
 <table>
   <thead>
@@ -48,7 +48,7 @@ Specializing in **Architecture Design**, **Security Tooling**, and **Full-Stack 
 
 ---
 
-### <img src="https://cdn.simpleicons.org/serverfault/E74C3C" width="25" height="25" /> Backend
+### ⚙️ Backend
 
 **Languages:**
 
@@ -71,7 +71,7 @@ Specializing in **Architecture Design**, **Security Tooling**, and **Full-Stack 
 
 ---
 
-### <img src="https://cdn.simpleicons.org/codepen/3498DB" width="25" height="25" /> Frontend
+### 🎨 Frontend
 
 **Languages:**
 
@@ -88,7 +88,7 @@ Specializing in **Architecture Design**, **Security Tooling**, and **Full-Stack 
 
 ---
 
-### <img src="https://cdn.simpleicons.org/reverbnation/9B59B6" width="25" height="25" /> Toolbox
+### 🔧 Toolbox
 
 **Development Tools:**
 
@@ -119,7 +119,7 @@ Specializing in **Architecture Design**, **Security Tooling**, and **Full-Stack 
 
 ---
 
-### <img src="https://cdn.simpleicons.org/github/181717" width="25" height="25" /> GitHub Stats
+### 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ul0gic&show_icons=true&theme=tokyonight&hide_border=true)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ul0gic&layout=compact&theme=tokyonight&hide_border=true)
