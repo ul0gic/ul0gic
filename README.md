@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ul0gic/ul0gic/main/29f5ba1fb4acbd516e4cbc88aad1b16dc054766c9b53692092e6410e53d706d9.png" alt="ul0gic banner" width="100%">
+  <img src="https://raw.githubusercontent.com/ul0gic/ul0gic/main/banner.png" alt="ul0gic banner" width="100%">
 </p>
 # ⚙️ ul0gic
 
