@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ul0gic/ul0gic/main/banner.png" alt="ul0gic banner" width="100%">
 </p>
-# <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="30" height="30" /> ul0gic
 
 ### Security Architect • Backend Engineer • Infrastructure Specialist
 
@@ -16,7 +15,7 @@ Specializing in **Architecture Design**, **Security Tooling**, and **Full-Stack 
 - Backend Systems in **Rust**, **Go**, and **Python**
 - Data Analytics, Quick-Hit Automation, and Scraping
 - Cloud Architecture (**AWS / Azure**) and Self-Hosted Infrastructure (**Docker**, **Kubernetes**, **Terraform**)
-- DevSecOps — **SAST**, **SCA**, and **DAST**
+- DevSecOps — **SAST**, **SCA**, and **DAST** Everywhere, All the Time
 
 ---
 
