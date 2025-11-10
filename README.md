@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ul0gic/ul0gic/main/banner.png" alt="ul0gic banner" width="100%">
 </p>
-# ⚙️ ul0gic
+# <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="30" height="30" /> ul0gic
 
 ### Security Architect • Backend Engineer • Infrastructure Specialist
 
@@ -10,7 +10,7 @@ Specializing in **Architecture Design**, **Security Tooling**, and **Full-Stack 
 
 ---
 
-### 🧠 Core Focus
+### <img src="https://cdn.simpleicons.org/target/FF6B6B" width="25" height="25" /> Core Focus
 
 - Offensive & Defensive Security Tooling
 - Backend Systems in **Rust**, **Go**, and **Python**
@@ -20,7 +20,7 @@ Specializing in **Architecture Design**, **Security Tooling**, and **Full-Stack 
 
 ---
 
-### 🧩 Work In Progress
+### <img src="https://cdn.simpleicons.org/constructorIO/FFD700" width="25" height="25" /> Work In Progress
 
 <table>
   <thead>
@@ -49,7 +49,7 @@ Specializing in **Architecture Design**, **Security Tooling**, and **Full-Stack 
 
 ---
 
-### 💻 Backend
+### <img src="https://cdn.simpleicons.org/serverfault/E74C3C" width="25" height="25" /> Backend
 
 **Languages:**
 
@@ -72,7 +72,7 @@ Specializing in **Architecture Design**, **Security Tooling**, and **Full-Stack 
 
 ---
 
-### 🖥️ Frontend
+### <img src="https://cdn.simpleicons.org/codepen/3498DB" width="25" height="25" /> Frontend
 
 **Languages:**
 
@@ -89,7 +89,7 @@ Specializing in **Architecture Design**, **Security Tooling**, and **Full-Stack 
 
 ---
 
-### 🧰 Toolbox
+### <img src="https://cdn.simpleicons.org/reverbnation/9B59B6" width="25" height="25" /> Toolbox
 
 **Development Tools:**
 
@@ -120,7 +120,7 @@ Specializing in **Architecture Design**, **Security Tooling**, and **Full-Stack 
 
 ---
 
-### ⚡ GitHub Stats
+### <img src="https://cdn.simpleicons.org/github/181717" width="25" height="25" /> GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ul0gic&show_icons=true&theme=tokyonight&hide_border=true)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ul0gic&layout=compact&theme=tokyonight&hide_border=true)
