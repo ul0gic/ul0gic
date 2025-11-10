@@ -126,5 +126,5 @@ Specializing in **Architecture Design**, **Security Tooling**, and **Full-Stack 
 
 ---
 
-### 🧠 Motto
-> “Security is not a feature — it’s an instinct.”
+### Philosophy
+> "Build it secure. Break it thoroughly. Ship it confidently."
