@@ -31,7 +31,7 @@ Specializing in **Architecture Design**, **Security Tooling**, and **Full-Stack 
       <td><strong>Ripcord</strong></td>
       <td>Data Science & Analytics</td>
       <td>Discord Intelligence Mining</td>
-      <td>Golang</td>
+      <td>Golang CLI</td>
     </tr>
     <tr>
       <td><strong>Corrode</strong></td>
