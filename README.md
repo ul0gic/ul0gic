@@ -28,10 +28,10 @@ Specializing in **Architecture Design**, **Security Tooling**, and **Full-Stack 
   </thead>
   <tbody>
     <tr>
-      <td><strong>Discredit</strong></td>
+      <td><strong>Ripcord</strong></td>
       <td>Data Science & Analytics</td>
-      <td>Discord & Reddit Intelligence Mining</td>
-      <td>Python</td>
+      <td>Discord Intelligence Mining</td>
+      <td>Golang</td>
     </tr>
     <tr>
       <td><strong>Corrode</strong></td>
