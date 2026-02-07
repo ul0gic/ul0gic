@@ -61,9 +61,7 @@ Specializing in **Architecture Design**, **Security Tooling**, and **Full-Stack 
 
 ---
 
-<details>
-<summary><strong>🧰 Tech Stack</strong> <sub>(click to expand)</sub></summary>
-<br>
+### 🧰 Tech Stack
 
 <table>
   <tr>
@@ -72,6 +70,7 @@ Specializing in **Architecture Design**, **Security Tooling**, and **Full-Stack 
       <img src="https://img.shields.io/badge/Rust-orange?logo=rust&logoColor=white" alt="Rust">
       <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go">
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white" alt="Swift">
       <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
     </td>
@@ -81,18 +80,26 @@ Specializing in **Architecture Design**, **Security Tooling**, and **Full-Stack 
     <td>
       <img src="https://img.shields.io/badge/Axum-orange?logo=rust&logoColor=white" alt="Axum">
       <img src="https://img.shields.io/badge/GIN-00ADD8?logo=go&logoColor=white" alt="GIN">
-      <img src="https://img.shields.io/badge/Sanic-222222?logo=python&logoColor=white" alt="Sanic">
       <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI">
+      <img src="https://img.shields.io/badge/Sanic-222222?logo=python&logoColor=white" alt="Sanic">
     </td>
   </tr>
   <tr>
     <td><strong>Frontend</strong></td>
     <td>
+      <img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white" alt="Svelte">
       <img src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB" alt="React">
       <img src="https://img.shields.io/badge/Vue-35495E?logo=vue.js&logoColor=4FC08D" alt="Vue">
-      <img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white" alt="Svelte">
       <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular">
       <img src="https://img.shields.io/badge/Nuxt-00C58E?logo=nuxt.js&logoColor=white" alt="Nuxt">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Apple</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/SwiftUI-F05138?logo=swift&logoColor=white" alt="SwiftUI">
+      <img src="https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white" alt="iOS">
+      <img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white" alt="macOS">
     </td>
   </tr>
   <tr>
@@ -101,6 +108,18 @@ Specializing in **Architecture Design**, **Security Tooling**, and **Full-Stack 
       <img src="https://img.shields.io/badge/Postgres-336791?logo=postgresql&logoColor=white" alt="PostgreSQL">
       <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
       <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite">
+      <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis">
+      <img src="https://img.shields.io/badge/Pinecone-000000?logo=pinecone&logoColor=white" alt="Pinecone">
+      <img src="https://img.shields.io/badge/ChromaDB-FF6F61?logoColor=white" alt="ChromaDB">
+      <img src="https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white" alt="Elasticsearch">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Security</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Semgrep-4B11A8?logo=semgrep&logoColor=white" alt="Semgrep">
+      <img src="https://img.shields.io/badge/Checkmarx-54B848?logo=checkmarx&logoColor=white" alt="Checkmarx">
+      <img src="https://img.shields.io/badge/Veracode-00B4E6?logoColor=white" alt="Veracode">
     </td>
   </tr>
   <tr>
@@ -111,6 +130,8 @@ Specializing in **Architecture Design**, **Security Tooling**, and **Full-Stack 
       <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes">
       <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" alt="Terraform">
+      <img src="https://img.shields.io/badge/CloudFormation-FF4F8B?logo=amazonaws&logoColor=white" alt="CloudFormation">
+      <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" alt="Nginx">
     </td>
   </tr>
   <tr>
@@ -131,16 +152,16 @@ Specializing in **Architecture Design**, **Security Tooling**, and **Full-Stack 
   <tr>
     <td><strong>Tools</strong></td>
     <td>
+      <img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white" alt="ESLint">
+      <img src="https://img.shields.io/badge/Ruff-D7FF64?logo=ruff&logoColor=black" alt="Ruff">
+      <img src="https://img.shields.io/badge/Knip-0A84FF?logoColor=white" alt="Knip">
       <img src="https://img.shields.io/badge/Biome-333333?logo=biome&logoColor=white" alt="Biome">
-      <img src="https://img.shields.io/badge/Knip-0A84FF?logo=checkmarx&logoColor=white" alt="Knip">
       <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
       <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white" alt="GraphQL">
       <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman">
     </td>
   </tr>
 </table>
-
-</details>
 
 ---
 
