@@ -1,17 +1,18 @@
-### Security Architect • Backend Engineer • Infrastructure Specialist
+### Security Architect • Infrastructure Engineer • Backend Engineer
 
-Building secure systems from infrastructure to application layer.
-Specializing in **Architecture Design**, **Security Tooling**, and **Full-Stack Engineering**.
+Building and breaking systems from infrastructure to application layer.
+Specializing in **Security Architecture, Engineering & Design**, **Offensive Security**, and **Custom Tooling**.
 
 ---
 
 ### 🎯 Core Focus
 
-- Offensive & Defensive Security Tooling
-- Backend Systems in **Rust**, **Go**, and **Python**
-- Data Analytics, Quick-Hit Automation, and Scraping
-- Cloud Architecture (**AWS / Azure**) and Self-Hosted Infrastructure (**Docker**, **Kubernetes**, **Terraform**)
-- DevSecOps — **SAST**, **SCA**, and **DAST** Everywhere, All the Time
+- **Security Architecture** — Network, Systems, Application, and Cloud Security Design
+- **Offensive Security** — Exploitation, API Reverse Engineering, Corporate Recon, Human Intelligence & OSINT, Custom Tooling
+- **Backend Systems** in **Rust** and **Go**
+- **Data Analytics** — Social Platform Mining, Mass Data Collection, OSINT, Quick-Hit Automation, and Scraping
+- **Cloud & Infrastructure** — **AWS**, **Azure**, **Cloudflare**, **Docker**, **Terraform**
+- **DevSecOps** — SAST, SCA, and DAST Baked Into Everything
 
 ---
 
@@ -120,6 +121,11 @@ Specializing in **Architecture Design**, **Security Tooling**, and **Full-Stack 
       <img src="https://img.shields.io/badge/Semgrep-4B11A8?logo=semgrep&logoColor=white" alt="Semgrep">
       <img src="https://img.shields.io/badge/Checkmarx-54B848?logo=checkmarx&logoColor=white" alt="Checkmarx">
       <img src="https://img.shields.io/badge/Veracode-00B4E6?logoColor=white" alt="Veracode">
+      <img src="https://img.shields.io/badge/Tenable-0096D6?logoColor=white" alt="Tenable">
+      <img src="https://img.shields.io/badge/CrowdStrike-FF0000?logo=crowdstrike&logoColor=white" alt="CrowdStrike">
+      <img src="https://img.shields.io/badge/Palo%20Alto-F04E23?logo=paloaltonetworks&logoColor=white" alt="Palo Alto">
+      <img src="https://img.shields.io/badge/Check%20Point-E21736?logo=checkpoint&logoColor=white" alt="Check Point">
+      <img src="https://img.shields.io/badge/Sourcefire-FF6600?logoColor=white" alt="Sourcefire">
     </td>
   </tr>
   <tr>
