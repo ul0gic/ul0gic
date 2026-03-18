@@ -3,6 +3,15 @@
 Building and breaking systems from infrastructure to application layer.
 Specializing in **Security Architecture, Engineering & Design**, **Offensive Security**, and **Custom Tooling**.
 
+### 🎯 Core Focus
+
+- **Security Architecture** — Network, Systems, Application, and Cloud Security Design
+- **Offensive Security** — Exploitation, API Reverse Engineering, Corporate Recon, Human Intelligence & OSINT, Custom Tooling
+- **Backend Systems** in **Rust** and **Go**
+- **Data Analytics** — Social Platform Mining, Mass Data Collection, OSINT, Quick-Hit Automation, and Scraping
+- **Cloud & Infrastructure** — **AWS**, **Azure**, **Cloudflare**, **Docker**, **Terraform**
+- **DevSecOps** — SAST, SCA, and DAST Baked Into Everything
+
 ---
 
 <div align="center">
@@ -23,17 +32,6 @@ Specializing in **Security Architecture, Engineering & Design**, **Offensive Sec
 [![Trophies](https://github-profile-trophy.vercel.app/?username=ul0gic&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ul0gic)
 
 </div>
-
----
-
-### 🎯 Core Focus
-
-- **Security Architecture** — Network, Systems, Application, and Cloud Security Design
-- **Offensive Security** — Exploitation, API Reverse Engineering, Corporate Recon, Human Intelligence & OSINT, Custom Tooling
-- **Backend Systems** in **Rust** and **Go**
-- **Data Analytics** — Social Platform Mining, Mass Data Collection, OSINT, Quick-Hit Automation, and Scraping
-- **Cloud & Infrastructure** — **AWS**, **Azure**, **Cloudflare**, **Docker**, **Terraform**
-- **DevSecOps** — SAST, SCA, and DAST Baked Into Everything
 
 ---
 
