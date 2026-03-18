@@ -1,8 +1,7 @@
-<div align="center">
+### Security Architect • Infrastructure Engineer • Backend Engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Security+Architect+%7C+Infrastructure+Engineer;Building+secure+systems.+Breaking+insecure+ones.;Rust+%7C+Go+%7C+Python+%7C+TypeScript;Offensive+Security+%7C+Custom+Tooling)](https://git.io/typing-svg)
-
-</div>
+Building and breaking systems from infrastructure to application layer.
+Specializing in **Security Architecture, Engineering & Design**, **Offensive Security**, and **Custom Tooling**.
 
 ---
 
@@ -208,7 +207,11 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ul0gic/ul0gic/output/github-snake-dark.svg" alt="Snake animation">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ul0gic/ul0gic/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ul0gic/ul0gic/output/github-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/ul0gic/ul0gic/output/github-snake-dark.svg">
+</picture>
 
 </div>
 
