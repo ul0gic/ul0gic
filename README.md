@@ -1,7 +1,29 @@
-### Security Architect • Infrastructure Engineer • Backend Engineer
+<div align="center">
 
-Building and breaking systems from infrastructure to application layer.
-Specializing in **Security Architecture, Engineering & Design**, **Offensive Security**, and **Custom Tooling**.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Security+Architect+%7C+Infrastructure+Engineer;Building+secure+systems.+Breaking+insecure+ones.;Rust+%7C+Go+%7C+Python+%7C+TypeScript;Offensive+Security+%7C+Custom+Tooling)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ul0gic&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" height="170" alt="GitHub Stats">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ul0gic&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="170" alt="Streak Stats">
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ul0gic&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="200" alt="Top Languages">
+
+</div>
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=ul0gic&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ul0gic)
+
+</div>
 
 ---
 
@@ -180,4 +202,20 @@ Specializing in **Security Architecture, Engineering & Design**, **Offensive Sec
 
 ---
 
+### 📈 Activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ul0gic&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)](https://github.com/ul0gic)
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ul0gic/ul0gic/output/github-snake-dark.svg" alt="Snake animation">
+
+</div>
+
+---
+
+<div align="center">
+
 > *"Build it secure. Break it thoroughly. Ship it confidently."*
+
+</div>
