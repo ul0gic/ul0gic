@@ -30,18 +30,25 @@ Specializing in **Security Architecture, Engineering & Design**, **Offensive Sec
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/ul0gic/ctsnare"><strong>ctsnare</strong></a></td>
+      <td>Threat Intelligence</td>
+      <td>Real-Time Certificate Transparency Log Monitor — Phishing & Typosquatting Detection</td>
+      <td>Go • SQLite</td>
+      <td>✅ Shipped</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/ul0gic/grave"><strong>Grave</strong></a></td>
       <td>Data Mining</td>
       <td>Git Repository Abandonment & Vintage Explorer</td>
       <td>Python</td>
-      <td>🔨 Active</td>
+      <td>✅ Shipped</td>
     </tr>
     <tr>
       <td><a href="https://github.com/ul0gic/runware-mcp"><strong>Runware MCP</strong></a></td>
       <td>AI Tooling</td>
       <td>MCP Server for AI Image & Video Generation</td>
       <td>TypeScript</td>
-      <td>🔨 Active</td>
+      <td>✅ Shipped</td>
     </tr>
     <tr>
       <td><a href="https://github.com/ul0gic/corrode"><strong>Corrode</strong></a></td>
@@ -88,10 +95,12 @@ Specializing in **Security Architecture, Engineering & Design**, **Offensive Sec
   <tr>
     <td><strong>Frontend</strong></td>
     <td>
+      <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" alt="HTML">
+      <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" alt="CSS">
+      <img src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white" alt="Astro">
       <img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white" alt="Svelte">
       <img src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB" alt="React">
       <img src="https://img.shields.io/badge/Vue-35495E?logo=vue.js&logoColor=4FC08D" alt="Vue">
-      <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular">
       <img src="https://img.shields.io/badge/Nuxt-00C58E?logo=nuxt.js&logoColor=white" alt="Nuxt">
     </td>
   </tr>
