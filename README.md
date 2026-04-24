@@ -49,6 +49,13 @@ Specializing in **Security Architecture, Engineering & Design**, **Offensive Sec
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/ul0gic/fail2zig"><strong>fail2zig</strong></a></td>
+      <td>Intrusion Prevention</td>
+      <td>Modern fail2ban replacement — static musl binary, kernel-native bans, v0.1.0 shipped</td>
+      <td>Zig</td>
+      <td>🔨 Active</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/ul0gic/ctsnare"><strong>ctsnare</strong></a></td>
       <td>Threat Intelligence</td>
       <td>Real-Time Certificate Transparency Log Monitor — Phishing & Typosquatting Detection</td>
