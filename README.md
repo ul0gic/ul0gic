@@ -81,7 +81,7 @@ Specializing in **Security Architecture, Engineering & Design**, **Offensive Sec
       <td>Offensive Security</td>
       <td>Credential Exposure Scanner</td>
       <td>Rust • Chromiumoxide</td>
-      <td>🔨 Active</td>
+      <td>✅ Shipped</td>
     </tr>
     <tr>
       <td><a href="https://github.com/ul0gic/ripcord"><strong>Ripcord</strong></a></td>
