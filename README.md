@@ -51,7 +51,7 @@ Specializing in **Security Architecture, Engineering & Design**, **Offensive Sec
     <tr>
       <td><a href="https://github.com/ul0gic/fail2zig"><strong>fail2zig</strong></a></td>
       <td>Intrusion Prevention</td>
-      <td>Modern fail2ban replacement — static musl binary, kernel-native bans, v0.1.0 shipped</td>
+      <td>Modern fail2ban replacement — static musl binary, kernel-native bans, v0.2.2 shipped</td>
       <td>Zig</td>
       <td>🔨 Active</td>
     </tr>
