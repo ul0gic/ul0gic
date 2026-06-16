@@ -1,9 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header&text=Security%20Architect%20%E2%80%A2%20Systems%20and%20Network%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&fontSize=18&fontColor=c9d1d9&fontAlignY=52" width="100%"/>
-</div>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=cc0000&center=true&vCenter=true&width=580&lines=Security+Architecture+%26+Engineering;Network+%26+Systems+Engineering;Offensive+Security+%26+Custom+Tooling;Full+Stack+Development;Data+Analytics+%2B+OSINT;Cloud+%26+Infrastructure+Security" alt="Typing SVG"/>
+<img src="https://ul0gic-gh.devteam-203.workers.dev/header" width="850" alt="Security Architect · Network & Infrastructure Engineer · Full-Stack Developer"/>
 </div>
 
 <div align="center">
@@ -14,7 +10,7 @@
 
 Designing secure systems, breaking them to find the gaps, and building full stack tools to close them. Operating from network layer to application layer.
 
-### <img src="https://raw.githubusercontent.com/ul0gic/ul0gic/main/icons/crosshair.svg" width="18"> Core Focus
+### 🎯 Core Focus
 
 - **Security Architecture** — Network, Systems, Application, and Cloud Security Design
 - **Network & Systems Engineering** — Routing, Firewalls, Hardening, Infrastructure Design
@@ -28,20 +24,15 @@ Designing secure systems, breaking them to find the gaps, and building full stac
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ul0gic&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" height="170" alt="GitHub Stats">
-<img src="https://streak-stats.demolab.com?user=ul0gic&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="170" alt="Streak Stats">
+<img src="https://ul0gic-gh.devteam-203.workers.dev/stats" width="850" alt="GitHub Stats"/>
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ul0gic&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="200" alt="Top Languages">
+<img src="https://ul0gic-gh.devteam-203.workers.dev/skills" width="850" alt="Most Used Languages & Arsenal"/>
 
 </div>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/ul0gic/ul0gic/main/icons/tool.svg" width="18"> Currently Building
+### 🔨 Currently Building
 
 <table width="100%">
 <tr>
@@ -98,7 +89,7 @@ Designing secure systems, breaking them to find the gaps, and building full stac
 
 ---
 
-### <img src="https://raw.githubusercontent.com/ul0gic/ul0gic/main/icons/package.svg" width="18"> Shipped
+### ✅ Shipped
 
 <table>
   <thead>
@@ -145,22 +136,14 @@ Designing secure systems, breaking them to find the gaps, and building full stac
 
 ---
 
-### <img src="https://raw.githubusercontent.com/ul0gic/ul0gic/main/icons/activity.svg" width="18"> Activity
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ul0gic&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)](https://github.com/ul0gic)
+### 📈 Activity
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ul0gic/ul0gic/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ul0gic/ul0gic/output/github-snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/ul0gic/ul0gic/output/github-snake-dark.svg">
-</picture>
+<img src="https://ul0gic-gh.devteam-203.workers.dev/activity" width="850" alt="Contribution Activity"/>
 
-</div>
+<img src="https://ul0gic-gh.devteam-203.workers.dev/scan" width="850" alt="Contribution Graph"/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%"/>
 </div>
 
 <div align="center">

@@ -1,0 +1,12 @@
+# Profile images live on GitHub directly (avatar / uploads), not in the repo
+*.png
+*.webp
+
+# Local design-lab scratch
+.playwright-mcp/
+
+# Card generator — deployed separately as a Cloudflare Worker, not part of the public profile repo
+custom-profile/
+
+# Working notes
+session-handoff.md
