@@ -1,0 +1,11 @@
+<svg width="1200" height="130" viewBox="0 0 1200 130" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#3d0000"/>
+    </linearGradient>
+  </defs>
+  <path d="M0,0 L1200,0 L1200,88 C1050,112 900,118 750,112 C600,106 450,88 300,98 C150,108 75,116 0,106 Z" fill="url(#bg)"/>
+  <text x="600" y="54" font-family="'Segoe UI',system-ui,sans-serif" font-size="46" font-weight="700" fill="#ffffff" text-anchor="middle">.ul0gic</text>
+  <text x="600" y="80" font-family="'Segoe UI',system-ui,sans-serif" font-size="13" fill="#c9d1d9" text-anchor="middle">Security Architect • Systems and Network Engineer • Full Stack Developer</text>
+</svg>

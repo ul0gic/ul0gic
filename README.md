@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:4a0000&height=130&section=header&text=.ul0gic&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Security%20Architect%20%E2%80%A2%20Systems%20and%20Network%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=68&descSize=14&descColor=c9d1d9" width="100%"/>
+<img src="https://raw.githubusercontent.com/ul0gic/ul0gic/main/header.svg" width="100%"/>
 </div>
 
 <div align="center">
@@ -160,7 +160,7 @@ Designing secure systems, breaking them to find the gaps, and building full stac
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a0000,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/ul0gic/ul0gic/main/footer.svg" width="100%"/>
 </div>
 
 <div align="center">
