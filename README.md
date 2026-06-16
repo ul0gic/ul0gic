@@ -36,12 +36,17 @@ Designing secure systems, breaking them to find the gaps, and building full stac
 <img src="https://ul0gic-gh.devteam-203.workers.dev/building" width="850" alt="Currently Building"/>
 </div>
 
+<table align="center"><tr>
+<td><a href="https://github.com/ul0gic/fail2zig"><img src="https://ul0gic-gh.devteam-203.workers.dev/building/fail2zig" alt="fail2zig"/></a></td>
+<td><a href="https://github.com/ul0gic/sqlite-deno"><img src="https://ul0gic-gh.devteam-203.workers.dev/building/sqlite-deno" alt="sqlite-deno"/></a></td>
+</tr></table>
+
 <div align="center">
 <img src="https://ul0gic-gh.devteam-203.workers.dev/rule" width="850" alt=""/>
 </div>
 
 <div align="center">
-<img src="https://ul0gic-gh.devteam-203.workers.dev/shipped" width="850" alt="Shipped"/>
+<a href="https://github.com/ul0gic?tab=repositories"><img src="https://ul0gic-gh.devteam-203.workers.dev/shipped" width="850" alt="Shipped"/></a>
 </div>
 
 <div align="center">
