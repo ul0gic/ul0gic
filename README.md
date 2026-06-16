@@ -14,7 +14,7 @@
 
 Designing secure systems, breaking them to find the gaps, and building full stack tools to close them. Operating from network layer to application layer.
 
-### 🎯 Core Focus
+### <img src="https://raw.githubusercontent.com/ul0gic/ul0gic/main/icons/crosshair.svg" width="18"> Core Focus
 
 - **Security Architecture** — Network, Systems, Application, and Cloud Security Design
 - **Network & Systems Engineering** — Routing, Firewalls, Hardening, Infrastructure Design
@@ -41,7 +41,7 @@ Designing secure systems, breaking them to find the gaps, and building full stac
 
 ---
 
-### 🔨 Currently Building
+### <img src="https://raw.githubusercontent.com/ul0gic/ul0gic/main/icons/tool.svg" width="18"> Currently Building
 
 <table width="100%">
 <tr>
@@ -50,7 +50,7 @@ Designing secure systems, breaking them to find the gaps, and building full stac
 <div>
 <a href="https://github.com/ul0gic/fail2zig" style="color:#e03333;font-weight:700;font-size:15px;text-decoration:none;">fail2zig</a>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/v0.2.2-active-yellow?style=flat-square&labelColor=161b22" alt="active">
+<img src="https://img.shields.io/badge/v0.2.2-active-orange?style=flat-square&labelColor=161b22" alt="active">
 </div>
 <p style="color:#c9d1d9;font-size:13px;margin:10px 0;">Drop-in fail2ban replacement in Zig. Single static musl binary, memory-bounded parser, kernel-native bans. Consumes existing jail.conf and filter.d/ unchanged.</p>
 <div>
@@ -73,7 +73,7 @@ Designing secure systems, breaking them to find the gaps, and building full stac
 <div>
 <a href="https://github.com/ul0gic/sqlite-deno" style="color:#e03333;font-weight:700;font-size:15px;text-decoration:none;">sqlite-deno</a>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Phase%208%2F10-active-yellow?style=flat-square&labelColor=161b22" alt="Phase 8/10">
+<img src="https://img.shields.io/badge/Phase%208%2F10-active-orange?style=flat-square&labelColor=161b22" alt="Phase 8/10">
 </div>
 <p style="color:#c9d1d9;font-size:13px;margin:10px 0;">True-Deno SQLite — WASM-only, zero FFI, no runtime downloads. Fully honors Deno's permission model. Runs on Deno Deploy and the edge.</p>
 <div>
@@ -98,7 +98,7 @@ Designing secure systems, breaking them to find the gaps, and building full stac
 
 ---
 
-### ✅ Shipped
+### <img src="https://raw.githubusercontent.com/ul0gic/ul0gic/main/icons/package.svg" width="18"> Shipped
 
 <table>
   <thead>
@@ -145,7 +145,7 @@ Designing secure systems, breaking them to find the gaps, and building full stac
 
 ---
 
-### 📈 Activity
+### <img src="https://raw.githubusercontent.com/ul0gic/ul0gic/main/icons/activity.svg" width="18"> Activity
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ul0gic&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)](https://github.com/ul0gic)
 
