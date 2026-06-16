@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a2a4a&height=130&section=header&text=ul0gic&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=45&desc=Security%20Architect%20%E2%80%A2%20Systems%20and%20Network%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=68&descSize=14&descColor=c9d1d9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a0000&height=130&section=header&text=.ul0gic&fontSize=48&fontColor=e03333&animation=fadeIn&fontAlignY=45&desc=Security%20Architect%20%E2%80%A2%20Systems%20and%20Network%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=68&descSize=14&descColor=c9d1d9" width="100%"/>
 </div>
 
 <div align="center">
@@ -41,7 +41,64 @@ Designing secure systems, breaking them to find the gaps, and building full stac
 
 ---
 
-### 🚧 Projects
+### 🔨 Currently Building
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top" style="padding:4px;">
+<div style="background:#0d1117;border:1px solid #e03333;border-radius:6px;padding:18px;">
+<div>
+<a href="https://github.com/ul0gic/fail2zig" style="color:#e03333;font-weight:700;font-size:15px;text-decoration:none;">fail2zig</a>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/v0.2.2-shipped-e03333?style=flat-square&labelColor=161b22" alt="v0.2.2">
+</div>
+<p style="color:#c9d1d9;font-size:13px;margin:10px 0;">Drop-in fail2ban replacement in Zig. Single static musl binary, memory-bounded parser, kernel-native bans. Consumes existing jail.conf and filter.d/ unchanged.</p>
+<div>
+<img src="https://img.shields.io/badge/Zig-F7A41D?style=flat-square&logo=zig&logoColor=black" alt="Zig">
+&nbsp;
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+&nbsp;
+<img src="https://img.shields.io/badge/musl%20static-8b949e?style=flat-square&labelColor=161b22" alt="musl">
+</div>
+<ul style="color:#8b949e;font-size:12px;line-height:1.8;padding-left:16px;margin-top:10px;">
+<li>Reads existing <code>jail.conf</code> + <code>filter.d/</code> — zero config migration</li>
+<li>Memory-bounded parser — immune to exploits from attack traffic</li>
+<li>Kernel-native bans via nftables / iptables</li>
+<li>Zero runtime deps — ships as one static binary</li>
+</ul>
+</div>
+</td>
+<td width="50%" valign="top" style="padding:4px;">
+<div style="background:#0d1117;border:1px solid #e03333;border-radius:6px;padding:18px;">
+<div>
+<a href="https://github.com/ul0gic/sqlite-deno" style="color:#e03333;font-weight:700;font-size:15px;text-decoration:none;">sqlite-deno</a>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Phase%208%2F10-active-e03333?style=flat-square&labelColor=161b22" alt="Phase 8/10">
+</div>
+<p style="color:#c9d1d9;font-size:13px;margin:10px 0;">True-Deno SQLite — WASM-only, zero FFI, no runtime downloads. Fully honors Deno's permission model. Runs on Deno Deploy and the edge.</p>
+<div>
+<img src="https://img.shields.io/badge/Deno-000000?style=flat-square&logo=deno&logoColor=white" alt="Deno">
+&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+&nbsp;
+<img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white" alt="WASM">
+&nbsp;
+<img src="https://img.shields.io/badge/JSR-next-F7A41D?style=flat-square&labelColor=161b22" alt="JSR">
+</div>
+<ul style="color:#8b949e;font-size:12px;line-height:1.8;padding-left:16px;margin-top:10px;">
+<li>Zero FFI — WASM only, edge &amp; Deno Deploy compatible</li>
+<li>Fully honors Deno's permission model natively</li>
+<li>Two concurrency modes + crash recovery built in</li>
+<li>Deterministic test harness — JSR release next</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+
+---
+
+### ✅ Shipped
 
 <table>
   <thead>
@@ -50,164 +107,40 @@ Designing secure systems, breaking them to find the gaps, and building full stac
       <th>DOMAIN</th>
       <th>DESCRIPTION</th>
       <th>STACK</th>
-      <th>STATUS</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/ul0gic/fail2zig"><strong>fail2zig</strong></a></td>
-      <td>Intrusion Prevention</td>
-      <td>Modern fail2ban replacement — static musl binary, kernel-native bans, v0.2.2 shipped</td>
-      <td>Zig</td>
-      <td>🔨 Active</td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/ul0gic/ctsnare"><strong>ctsnare</strong></a></td>
       <td>Threat Intelligence</td>
-      <td>Real-Time Certificate Transparency Log Monitor — Phishing & Typosquatting Detection</td>
+      <td>Real-time Certificate Transparency log monitor for phishing & typosquatting detection</td>
       <td>Go • SQLite</td>
-      <td>✅ Shipped</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ul0gic/grave"><strong>Grave</strong></a></td>
-      <td>Data Mining</td>
-      <td>Git Repository Abandonment & Vintage Explorer</td>
-      <td>Python</td>
-      <td>✅ Shipped</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/ul0gic/runware-mcp"><strong>Runware MCP</strong></a></td>
-      <td>AI Tooling</td>
-      <td>MCP Server for AI Image & Video Generation</td>
-      <td>TypeScript</td>
-      <td>✅ Shipped</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/ul0gic/corrode"><strong>Corrode</strong></a></td>
+      <td><a href="https://github.com/ul0gic/corrode"><strong>corrode</strong></a></td>
       <td>Offensive Security</td>
-      <td>Credential Exposure Scanner</td>
+      <td>Credential exposure scanner</td>
       <td>Rust • Chromiumoxide</td>
-      <td>✅ Shipped</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ul0gic/ripcord"><strong>Ripcord</strong></a></td>
-      <td>Data Science & Analytics</td>
-      <td>Zero-Dependency Discord Channel Scraper</td>
-      <td>Go CLI</td>
-      <td>✅ Shipped</td>
+      <td><a href="https://github.com/ul0gic/ripcord"><strong>ripcord</strong></a></td>
+      <td>Data Analytics</td>
+      <td>Zero-dependency Discord channel scraper</td>
+      <td>Go</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ul0gic/grave"><strong>grave</strong></a></td>
+      <td>Data Mining</td>
+      <td>Git repository abandonment & vintage explorer</td>
+      <td>Python</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ul0gic/runware-mcp"><strong>runware-mcp</strong></a></td>
+      <td>AI Tooling</td>
+      <td>MCP server for AI image & video generation</td>
+      <td>TypeScript</td>
     </tr>
   </tbody>
-</table>
-
----
-
-### 🧰 Tech Stack
-
-<table>
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Rust-orange?logo=rust&logoColor=white" alt="Rust">
-      <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go">
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
-      <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white" alt="Swift">
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Backend</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Axum-orange?logo=rust&logoColor=white" alt="Axum">
-      <img src="https://img.shields.io/badge/GIN-00ADD8?logo=go&logoColor=white" alt="GIN">
-      <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI">
-      <img src="https://img.shields.io/badge/Sanic-222222?logo=python&logoColor=white" alt="Sanic">
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" alt="HTML">
-      <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" alt="CSS">
-      <img src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white" alt="Astro">
-      <img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white" alt="Svelte">
-      <img src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB" alt="React">
-      <img src="https://img.shields.io/badge/Vue-35495E?logo=vue.js&logoColor=4FC08D" alt="Vue">
-      <img src="https://img.shields.io/badge/Nuxt-00C58E?logo=nuxt.js&logoColor=white" alt="Nuxt">
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Apple</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/SwiftUI-F05138?logo=swift&logoColor=white" alt="SwiftUI">
-      <img src="https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white" alt="iOS">
-      <img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white" alt="macOS">
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Data</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Postgres-336791?logo=postgresql&logoColor=white" alt="PostgreSQL">
-      <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
-      <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite">
-      <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis">
-      <img src="https://img.shields.io/badge/Pinecone-000000?logo=pinecone&logoColor=white" alt="Pinecone">
-      <img src="https://img.shields.io/badge/ChromaDB-FF6F61?logoColor=white" alt="ChromaDB">
-      <img src="https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white" alt="Elasticsearch">
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Security</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Semgrep-4B11A8?logo=semgrep&logoColor=white" alt="Semgrep">
-      <img src="https://img.shields.io/badge/Checkmarx-54B848?logo=checkmarx&logoColor=white" alt="Checkmarx">
-      <img src="https://img.shields.io/badge/Veracode-00B4E6?logoColor=white" alt="Veracode">
-      <img src="https://img.shields.io/badge/Tenable-0096D6?logoColor=white" alt="Tenable">
-      <img src="https://img.shields.io/badge/CrowdStrike-FF0000?logo=crowdstrike&logoColor=white" alt="CrowdStrike">
-      <img src="https://img.shields.io/badge/Palo%20Alto-F04E23?logo=paloaltonetworks&logoColor=white" alt="Palo Alto">
-      <img src="https://img.shields.io/badge/Check%20Point-E21736?logo=checkpoint&logoColor=white" alt="Check Point">
-      <img src="https://img.shields.io/badge/Sourcefire-FF6600?logoColor=white" alt="Sourcefire">
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Infrastructure</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux">
-      <img src="https://img.shields.io/badge/FreeBSD-a60000?logo=freebsd&logoColor=white" alt="FreeBSD">
-      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes">
-      <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" alt="Terraform">
-      <img src="https://img.shields.io/badge/CloudFormation-FF4F8B?logo=amazonaws&logoColor=white" alt="CloudFormation">
-      <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" alt="Nginx">
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Cloud</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS">
-      <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white" alt="Azure">
-      <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white" alt="Cloudflare">
-    </td>
-  </tr>
-  <tr>
-    <td><strong>CI/CD</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions">
-      <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=white" alt="GitLab CI">
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Tools</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white" alt="ESLint">
-      <img src="https://img.shields.io/badge/Ruff-D7FF64?logo=ruff&logoColor=black" alt="Ruff">
-      <img src="https://img.shields.io/badge/Knip-0A84FF?logoColor=white" alt="Knip">
-      <img src="https://img.shields.io/badge/Biome-333333?logo=biome&logoColor=white" alt="Biome">
-      <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
-      <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white" alt="GraphQL">
-      <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman">
-    </td>
-  </tr>
 </table>
 
 ---
@@ -227,7 +160,7 @@ Designing secure systems, breaking them to find the gaps, and building full stac
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a4a,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,100:0d1117&height=100&section=footer" width="100%"/>
 </div>
 
 <div align="center">
