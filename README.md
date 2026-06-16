@@ -21,6 +21,18 @@ Designing secure systems, breaking them to find the gaps, and building full stac
 </div>
 
 <div align="center">
+
+<img src="https://ul0gic-gh.devteam-203.workers.dev/stats" width="850" alt="GitHub Stats"/>
+
+<img src="https://ul0gic-gh.devteam-203.workers.dev/skills" width="850" alt="Most Used Languages & Arsenal"/>
+
+</div>
+
+<div align="center">
+<img src="https://ul0gic-gh.devteam-203.workers.dev/rule" width="850" alt=""/>
+</div>
+
+<div align="center">
 <img src="https://ul0gic-gh.devteam-203.workers.dev/building" width="850" alt="Currently Building"/>
 </div>
 
