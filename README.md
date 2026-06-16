@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a0000&height=130&section=header&text=.ul0gic&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Security%20Architect%20%E2%80%A2%20Systems%20and%20Network%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=68&descSize=14&descColor=c9d1d9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:4a0000&height=130&section=header&text=.ul0gic&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Security%20Architect%20%E2%80%A2%20Systems%20and%20Network%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=68&descSize=14&descColor=c9d1d9" width="100%"/>
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=e03333&center=true&vCenter=true&width=580&lines=Security+Architecture+%26+Engineering;Network+%26+Systems+Engineering;Offensive+Security+%26+Custom+Tooling;Full+Stack+Development;Data+Analytics+%2B+OSINT;Cloud+%26+Infrastructure+Security" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=cc0000&center=true&vCenter=true&width=580&lines=Security+Architecture+%26+Engineering;Network+%26+Systems+Engineering;Offensive+Security+%26+Custom+Tooling;Full+Stack+Development;Data+Analytics+%2B+OSINT;Cloud+%26+Infrastructure+Security" alt="Typing SVG"/>
 </div>
 
 <div align="center">
@@ -160,7 +160,7 @@ Designing secure systems, breaking them to find the gaps, and building full stac
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a0000,100:0d1117&height=100&section=footer" width="100%"/>
 </div>
 
 <div align="center">
