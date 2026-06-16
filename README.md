@@ -1,4 +1,16 @@
-### Security Architect • Infrastructure Engineer • Backend Engineer
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a2a4a&height=130&section=header&text=ul0gic&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=45&desc=Security%20Architect%20%E2%80%A2%20Infrastructure%20Engineer%20%E2%80%A2%20Backend%20Engineer&descAlignY=68&descSize=14&descColor=c9d1d9" width="100%"/>
+</div>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=580&lines=Security+Architecture+%26+Engineering;Offensive+Security+%26+Custom+Tooling;Backend+Systems+in+Rust+%26+Go;Data+Analytics+%2B+OSINT;Cloud+%26+Infrastructure+Security;DevSecOps+%E2%80%94+SAST+%E2%80%A2+SCA+%E2%80%A2+DAST" alt="Typing SVG"/>
+</div>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=ul0gic&color=58a6ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
+</div>
+
+---
 
 Building and breaking systems from infrastructure to application layer.
 Specializing in **Security Architecture, Engineering & Design**, **Offensive Security**, and **Custom Tooling**.
@@ -17,19 +29,13 @@ Specializing in **Security Architecture, Engineering & Design**, **Offensive Sec
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ul0gic&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" height="170" alt="GitHub Stats">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ul0gic&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="170" alt="Streak Stats">
+<img src="https://streak-stats.demolab.com?user=ul0gic&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="170" alt="Streak Stats">
 
 </div>
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ul0gic&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="200" alt="Top Languages">
-
-</div>
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=ul0gic&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ul0gic)
 
 </div>
 
@@ -220,7 +226,9 @@ Specializing in **Security Architecture, Engineering & Design**, **Offensive Sec
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a4a,100:0d1117&height=100&section=footer" width="100%"/>
+</div>
 
 <div align="center">
 
