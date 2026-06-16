@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a2a4a&height=130&section=header&text=ul0gic&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=45&desc=Security%20Architect%20%E2%80%A2%20Infrastructure%20Engineer%20%E2%80%A2%20Backend%20Engineer&descAlignY=68&descSize=14&descColor=c9d1d9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a2a4a&height=130&section=header&text=ul0gic&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=45&desc=Security%20Architect%20%E2%80%A2%20Systems%20%26%20Network%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=68&descSize=14&descColor=c9d1d9" width="100%"/>
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=580&lines=Security+Architecture+%26+Engineering;Offensive+Security+%26+Custom+Tooling;Backend+Systems+in+Rust+%26+Go;Data+Analytics+%2B+OSINT;Cloud+%26+Infrastructure+Security;DevSecOps+%E2%80%94+SAST+%E2%80%A2+SCA+%E2%80%A2+DAST" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=580&lines=Security+Architecture+%26+Engineering;Network+%26+Systems+Engineering;Offensive+Security+%26+Custom+Tooling;Full+Stack+Development;Data+Analytics+%2B+OSINT;Cloud+%26+Infrastructure+Security" alt="Typing SVG"/>
 </div>
 
 <div align="center">
@@ -12,17 +12,17 @@
 
 ---
 
-Building and breaking systems from infrastructure to application layer.
-Specializing in **Security Architecture, Engineering & Design**, **Offensive Security**, and **Custom Tooling**.
+Designing secure systems, breaking them to find the gaps, and building full stack tools to close them. Operating from network layer to application layer.
 
 ### 🎯 Core Focus
 
 - **Security Architecture** — Network, Systems, Application, and Cloud Security Design
+- **Network & Systems Engineering** — Routing, Firewalls, Hardening, Infrastructure Design
 - **Offensive Security** — Exploitation, API Reverse Engineering, Corporate Recon, Human Intelligence & OSINT, Custom Tooling
-- **Backend Systems** in **Rust** and **Go**
+- **Full Stack Development** — Backend in Rust & Go, frontend when the project demands it
 - **Data Analytics** — Social Platform Mining, Mass Data Collection, OSINT, Quick-Hit Automation, and Scraping
 - **Cloud & Infrastructure** — **AWS**, **Azure**, **Cloudflare**, **Docker**, **Terraform**
-- **DevSecOps** — SAST, SCA, and DAST Baked Into Everything
+- **DevSecOps** — SAST, SCA, DAST, secret scanning, IaC analysis, and container security across every pipeline
 
 ---
 
