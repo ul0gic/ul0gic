@@ -62,6 +62,14 @@ Designing secure systems, breaking them to find the gaps, and building full stac
 </div>
 
 <div align="center">
+<img src="https://ul0gic-gh.devteam-203.workers.dev/rule" width="850" alt=""/>
+</div>
+
+<div align="center">
+<a href="https://ul0gic-gh.devteam-203.workers.dev/ping"><img src="https://ul0gic-gh.devteam-203.workers.dev/worldmap" width="850" alt="Signals Received — click to ping the map from your country"/></a>
+</div>
+
+<div align="center">
 
 > *"Build it secure. Break it thoroughly. Ship it confidently."*
 
