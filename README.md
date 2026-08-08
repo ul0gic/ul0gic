@@ -67,6 +67,8 @@ Designing secure systems, breaking them to find the gaps, and building full stac
 
 <div align="center">
 <a href="https://ul0gic-gh.devteam-203.workers.dev/ping"><img src="https://ul0gic-gh.devteam-203.workers.dev/worldmap" width="850" alt="Signals Received — click to ping the map from your country"/></a>
+
+<a href="https://ul0gic-gh.devteam-203.workers.dev/ping"><img src="https://ul0gic-gh.devteam-203.workers.dev/ping-button" width="850" alt="Transmit signal — put your country on the map"/></a>
 </div>
 
 <div align="center">
