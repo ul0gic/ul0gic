@@ -13,7 +13,7 @@
 Designing secure systems, breaking them to find the gaps, and building full stack tools to close them. Operating from network layer to application layer.
 
 <div align="center">
-<img src="https://ul0gic-gh.devteam-203.workers.dev/focus" width="850" alt="Core Focus"/>
+<img src="https://ul0gic-gh.devteam-203.workers.dev/focus?v=2" width="850" alt="Core Focus"/>
 </div>
 
 <div align="center">
@@ -37,7 +37,7 @@ Designing secure systems, breaking them to find the gaps, and building full stac
 </div>
 
 <table align="center"><tr>
-<td><a href="https://github.com/ul0gic/fail2zig"><img src="https://ul0gic-gh.devteam-203.workers.dev/building/fail2zig?v=2" alt="fail2zig"/></a></td>
+<td><a href="https://github.com/ul0gic/fail2zig"><img src="https://ul0gic-gh.devteam-203.workers.dev/building/fail2zig?v=3" alt="fail2zig"/></a></td>
 <td><a href="https://github.com/ul0gic/flightline"><img src="https://ul0gic-gh.devteam-203.workers.dev/building/flightline?v=2" alt="flightline"/></a></td>
 </tr></table>
 
@@ -46,7 +46,7 @@ Designing secure systems, breaking them to find the gaps, and building full stac
 </div>
 
 <div align="center">
-<a href="https://github.com/ul0gic?tab=repositories"><img src="https://ul0gic-gh.devteam-203.workers.dev/shipped?v=3" width="850" alt="Shipped"/></a>
+<a href="https://github.com/ul0gic?tab=repositories"><img src="https://ul0gic-gh.devteam-203.workers.dev/shipped?v=4" width="850" alt="Shipped"/></a>
 </div>
 
 <div align="center">
